@@ -1,0 +1,15 @@
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\bin\Debug\net6.0\ex3.exe
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\bin\Debug\net6.0\ex3.deps.json
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\bin\Debug\net6.0\ex3.runtimeconfig.json
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\bin\Debug\net6.0\ex3.dll
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\bin\Debug\net6.0\ex3.pdb
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\obj\Debug\net6.0\ex3.csproj.AssemblyReference.cache
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\obj\Debug\net6.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\obj\Debug\net6.0\ex3.AssemblyInfoInputs.cache
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\obj\Debug\net6.0\ex3.AssemblyInfo.cs
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\obj\Debug\net6.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\obj\Debug\net6.0\ex3.dll
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\obj\Debug\net6.0\refint\ex3.dll
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\obj\Debug\net6.0\ex3.pdb
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\obj\Debug\net6.0\ex3.genruntimeconfig.cache
+C:\Users\Zeld\workspace\csharp-poo-exercises\ex3\obj\Debug\net6.0\ref\ex3.dll
