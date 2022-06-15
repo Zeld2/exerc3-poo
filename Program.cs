@@ -9,6 +9,9 @@ Guerreiro guerreiro2 = new Guerreiro("André");
 mago1.aprenderMagia("Escudo negro");
 System.Console.WriteLine("");
 
+mago2.lvlUp();
+System.Console.WriteLine("");
+
 mago1.attack();
 System.Console.WriteLine("");
 

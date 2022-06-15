@@ -18,8 +18,7 @@ namespace ex3.src
             this.Inteligencia = this.Inteligencia + 2;
             this.Forca = this.Forca + 1;
             System.Console.WriteLine("Você aumentou de nível. Parabéns!");
-            System.Console.WriteLine("---------------------------------");
-            System.Console.WriteLine($"Level: {this.Level}\n"+$"Força:{this.Forca}\n"+$"Inteligencia{this.Inteligencia}");
+            System.Console.WriteLine($"Level: {this.Level} | "+$"Força: {this.Forca} | "+$"Inteligencia: {this.Inteligencia}");
         }
         public void attack()
         {   
